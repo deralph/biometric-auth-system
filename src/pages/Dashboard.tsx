@@ -1,5 +1,4 @@
 import React from 'react'
-import Sidebar from '../components/Sidebar'
 import Header from '../components/Header'
 import BarChart from '../components/BarChart'
 import DonutChart from '../components/DonutChart'

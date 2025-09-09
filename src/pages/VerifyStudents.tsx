@@ -1,16 +1,10 @@
 import React from "react";
-import Sidebar from "../components/Sidebar";
-import StatsCard from "../components/StatCard2";
 import StudentDetails from "../components/StudentDetails";
 
 import Header from '../components/Header'
 
 const VerifyStudent: React.FC = () => {
-  const stats = [
-    { label: "TOTAL REGISTRATIONS", value: 300, icon: "registrations" as const },
-    { label: "TOTAL VERIFICATION", value: 200, icon: "verifications" as const },
-    { label: "TOTAL STUDENTS", value: 500, icon: "students" as const },
-  ];
+  
 
   const student = {
     name: "IMORU OLAWALE VICTOR",

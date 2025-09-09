@@ -1,7 +1,6 @@
 import React from 'react'
 import { stats } from '../data'
 import StatCard from './StatCard'
-import { UserPlus } from 'lucide-react'
 import { FaUserAlt } from "react-icons/fa";
 import { HiUserGroup,HiUsers } from "react-icons/hi";
 
